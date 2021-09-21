@@ -1,3 +1,7 @@
 Hola soy Camila Marin
 Hola soy Andrea Donado
+<<<<<<< HEAD
 Hola soy Paola Henao 
+=======
+Hola, soy Andrés Sierra
+>>>>>>> 6970f90f4054db74c05732fa91113dad2b4aa144
